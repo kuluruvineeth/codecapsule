@@ -1,0 +1,137 @@
+{
+  "models": [
+    {
+      "id": "o1-preview",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "o1 (Preview)",
+      "multiModal": true
+    },
+    {
+      "id": "o1-mini",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "o1 mini",
+      "multiModal": true
+    },
+    {
+      "id": "gpt-4o",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-4o",
+      "multiModal": true
+    },
+    {
+      "id": "gpt-4o-mini",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-4o Mini",
+      "multiModal": true
+    },
+    {
+      "id": "gpt-4-turbo",
+      "provider": "OpenAI",
+      "providerId": "openai",
+      "name": "GPT-4 Turbo",
+      "multiModal": true
+    },
+    {
+      "id": "models/gemini-1.5-pro-002",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini Pro",
+      "multiModal": true
+    },
+    {
+      "id": "models/gemini-1.5-flash-002",
+      "provider": "Google Generative AI",
+      "providerId": "google",
+      "name": "Gemini Flash",
+      "multiModal": true
+    },
+    {
+      "id": "mistral-large-latest",
+      "provider": "Mistral",
+      "providerId": "mistral",
+      "name": "Mistral Large",
+      "multiModal": false
+    },
+    {
+      "id": "mistral-small-latest",
+      "provider": "Mistral",
+      "providerId": "mistral",
+      "name": "Mistral Small",
+      "multiModal": false
+    },
+    {
+      "id": "open-mistral-nemo",
+      "provider": "Mistral",
+      "providerId": "mistral",
+      "name": "Mistral Nemo",
+      "multiModal": false
+    },
+    {
+      "id": "llama-3.1-70b-versatile",
+      "provider": "Groq",
+      "providerId": "groq",
+      "name": "Llama 3.1 70B (Preview)",
+      "multiModal": false
+    },
+    {
+      "id": "llama3-groq-70b-8192-tool-use-preview",
+      "provider": "Groq",
+      "providerId": "groq",
+      "name": "Llama 3 Groq 70B Tool Use (Preview)",
+      "multiModal": false
+    },
+    {
+      "id": "accounts/fireworks/models/llama-v3p1-405b-instruct",
+      "provider": "Fireworks",
+      "providerId": "fireworks",
+      "name": "Llama 3.1 405B",
+      "multiModal": false
+    },
+    {
+      "id": "accounts/fireworks/models/llama-v3p1-70b-instruct",
+      "provider": "Fireworks",
+      "providerId": "fireworks",
+      "name": "Llama 3.1 70B",
+      "multiModal": false
+    },
+    {
+      "id": "meta-llama/Meta-Llama-3.1-70B-Instruct-Turbo",
+      "provider": "Together AI",
+      "providerId": "togetherai",
+      "name": "Llama 3.1 70B",
+      "multiModal": false
+    },
+    {
+      "id": "llama3.1",
+      "provider": "Ollama",
+      "providerId": "ollama",
+      "name": "Llama 3.1",
+      "multiModal": false
+    },
+    {
+      "id": "mistral-nemo",
+      "provider": "Ollama",
+      "providerId": "ollama",
+      "name": "Mistral Nemo",
+      "multiModal": false
+    },
+    {
+      "id": "mistral-large",
+      "provider": "Ollama",
+      "providerId": "ollama",
+      "name": "Mistral Large",
+      "multiModal": false
+    },
+    {
+      "id": "claude-3-5-sonnet-20240620",
+      "provider": "Anthropic",
+      "providerId": "anthropic",
+      "name": "Claude 3.5 Sonnet",
+      "multiModal": true
+    }
+  ]
+}
